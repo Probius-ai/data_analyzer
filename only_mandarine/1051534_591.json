@@ -1,0 +1,527 @@
+{
+  "info": [
+    {
+      "name": "Data",
+      "description": "Exported from Superb AI Suite",
+      "url": "https://www.superb-ai.com",
+      "date_created": "2022-01-22 13:26:42.235016"
+    }
+  ],
+  "license": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "images": [
+    {
+      "id": "1051534_591",
+      "width": 2800,
+      "height": 2100,
+      "file_name": "1051534_591.jpg",
+      "license": "",
+      "date_created": "2022-01-22 13:26:42.235112"
+    }
+  ],
+  "annotations": [
+    {
+      "id": "900b4f2e-ab59-4d8f-9b5d-e1d82548b525",
+      "image_id": "1051534_591",
+      "category_id": 104,
+      "segmentation": [
+        {
+          "x": 1872.4377690376605,
+          "y": 640.8673153993599
+        },
+        {
+          "x": 1881.1660784143792,
+          "y": 657.0014630351128
+        },
+        {
+          "x": 1885.6624802145072,
+          "y": 666.2587608589055
+        },
+        {
+          "x": 1886.984951332192,
+          "y": 681.5994258240477
+        },
+        {
+          "x": 1885.133491767433,
+          "y": 696.675596565653
+        },
+        {
+          "x": 1880.3725957437684,
+          "y": 714.6612037661645
+        },
+        {
+          "x": 1866.089907672774,
+          "y": 731.3243398489913
+        },
+        {
+          "x": 1844.1368871192085,
+          "y": 747.1939932612073
+        },
+        {
+          "x": 1822.183866565643,
+          "y": 751.4259008377983
+        },
+        {
+          "x": 1804.7272478122054,
+          "y": 751.4259008377983
+        },
+        {
+          "x": 1786.7416406116938,
+          "y": 748.516464378892
+        },
+        {
+          "x": 1772.4589525406993,
+          "y": 742.6975914610795
+        },
+        {
+          "x": 1758.4407586932418,
+          "y": 727.0924322724004
+        },
+        {
+          "x": 1749.4479550929861,
+          "y": 710.6937904131105
+        },
+        {
+          "x": 1747.5964955282277,
+          "y": 694.0306543302836
+        },
+        {
+          "x": 1749.4479550929861,
+          "y": 672.0776337767181
+        },
+        {
+          "x": 1757.911770246168,
+          "y": 650.1246132231527
+        },
+        {
+          "x": 1773.516929434847,
+          "y": 633.1969829167889
+        },
+        {
+          "x": 1793.353996200117,
+          "y": 622.6172139753115
+        },
+        {
+          "x": 1820.5969012244216,
+          "y": 616.5338468339621
+        },
+        {
+          "x": 1835.1440835189528,
+          "y": 617.327329504573
+        },
+        {
+          "x": 1861.858000096183,
+          "y": 628.4360868931242
+        },
+        {
+          "x": 1872.4377690376605,
+          "y": 640.8673153993599
+        }
+      ],
+      "bbox": [
+        1747.5964955282277,
+        616.5338468339621,
+        139.38845580396423,
+        134.89205400383617
+      ],
+      "area": 18802.395107819673,
+      "isSmallType": "Y"
+    },
+    {
+      "id": "e0fef1fc-c246-4b41-a1f8-55b01a7fd90c",
+      "image_id": "1051534_591",
+      "category_id": 104,
+      "segmentation": [
+        {
+          "x": 1630.2910207624861,
+          "y": 714.45673279595
+        },
+        {
+          "x": 1633.1366958763122,
+          "y": 729.1872863263426
+        },
+        {
+          "x": 1634.978015067611,
+          "y": 746.5961223168066
+        },
+        {
+          "x": 1631.295376685013,
+          "y": 759.9875346171634
+        },
+        {
+          "x": 1620.2474615372187,
+          "y": 781.7485796052434
+        },
+        {
+          "x": 1606.6886565831073,
+          "y": 796.6465257893906
+        },
+        {
+          "x": 1582.9188997499737,
+          "y": 807.8618335909395
+        },
+        {
+          "x": 1568.0209535658266,
+          "y": 809.3683674747297
+        },
+        {
+          "x": 1552.955614727925,
+          "y": 806.3552997071492
+        },
+        {
+          "x": 1537.5554905825145,
+          "y": 799.6595935569708
+        },
+        {
+          "x": 1528.1815019722646,
+          "y": 791.4573535230022
+        },
+        {
+          "x": 1509.768310059274,
+          "y": 761.996246462217
+        },
+        {
+          "x": 1506.922634945448,
+          "y": 745.5917663942797
+        },
+        {
+          "x": 1507.5922055604658,
+          "y": 732.5351394014317
+        },
+        {
+          "x": 1523.49450766714,
+          "y": 702.906639686892
+        },
+        {
+          "x": 1533.0358889311442,
+          "y": 692.1935098466065
+        },
+        {
+          "x": 1551.783866151644,
+          "y": 684.8282330814102
+        },
+        {
+          "x": 1567.3513829508088,
+          "y": 682.4847359288477
+        },
+        {
+          "x": 1588.7776426313799,
+          "y": 685.3304110426736
+        },
+        {
+          "x": 1616.0626451933572,
+          "y": 695.7087555754503
+        },
+        {
+          "x": 1624.5996705348346,
+          "y": 704.7479588781912
+        },
+        {
+          "x": 1630.2910207624861,
+          "y": 714.45673279595
+        }
+      ],
+      "bbox": [
+        1506.922634945448,
+        682.4847359288477,
+        128.05538012216311,
+        126.88363154588194
+      ],
+      "area": 16248.131668888398,
+      "isSmallType": "Y"
+    }
+  ],
+  "categories": [
+    {
+      "id": "500cb699-4091-4a67-9d3f-e4dfbfb57399",
+      "class_id": 85,
+      "class_name": "매실",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "b59fe2ea-5c83-4841-a6a3-70838bf758f8",
+      "class_id": 86,
+      "class_name": "무화과",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "d400adc3-a14e-4e21-838d-e3be3d87b159",
+      "class_id": 87,
+      "class_name": "체리",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "0b4ef7df-31b0-4a58-9d1d-67ae47ccd811",
+      "class_id": 88,
+      "class_name": "복분자",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "2b6d721d-7d03-4f53-809c-fbf45b4baf49",
+      "class_id": 89,
+      "class_name": "복숭아",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "3739fc7a-9c1e-48bb-8975-5c5b03542fdd",
+      "class_id": 90,
+      "class_name": "천도복숭아",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "f21a933b-5d7a-4252-8036-bcd93ab13acf",
+      "class_id": 91,
+      "class_name": "블랙베리",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "4a78c12b-c5ad-409b-8095-e17056af4d1b",
+      "class_id": 92,
+      "class_name": "블루베리",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "888c6543-c212-4c0b-805d-7c396106102b",
+      "class_id": 93,
+      "class_name": "산딸기",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "e1431885-491a-4a95-b2a1-1b34cd576963",
+      "class_id": 94,
+      "class_name": "자두",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "1b7fcf51-bdad-4215-a645-c92f892e5a8d",
+      "class_id": 95,
+      "class_name": "포도(송이)",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "2a3a9c78-9978-4176-9f88-275765d1b8d7",
+      "class_id": 96,
+      "class_name": "감",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "727be456-cd25-42f6-a15b-370c7fe7ba9f",
+      "class_id": 97,
+      "class_name": "대추",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "86bdba0d-fcf2-44f8-9d70-d7a02e74f4e7",
+      "class_id": 98,
+      "class_name": "머루(송이)",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "1f306b86-22a4-4ae4-b263-9799fe7077c3",
+      "class_id": 99,
+      "class_name": "모과",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "8ee790b3-c5cb-4101-b4aa-a6647c5a52da",
+      "class_id": 100,
+      "class_name": "배",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "ad722f43-6b14-4981-8ccd-7297ac8c0ded",
+      "class_id": 101,
+      "class_name": "사과",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "33267a3e-db42-4743-b39e-a612f239ea9f",
+      "class_id": 102,
+      "class_name": "석류",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "bd51c740-e9b3-4813-b90b-ff75c8a48da7",
+      "class_id": 103,
+      "class_name": "유자",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "9356e0c7-0ad3-4d96-aa76-debcf0e5417f",
+      "class_id": 104,
+      "class_name": "귤",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "1a05d6a2-1d37-4ebc-919d-201e812412f1",
+      "class_id": 105,
+      "class_name": "천혜향",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "72b57438-5f37-44d1-b58d-7226008b29d1",
+      "class_id": 106,
+      "class_name": "한라봉",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "f78899a4-ffed-4bef-a981-7d475fe89561",
+      "class_id": 107,
+      "class_name": "딸기",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "924587db-2bf3-479c-9698-5a6d4e8d084a",
+      "class_id": 108,
+      "class_name": "수박",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "0521bb01-1539-4789-87c6-1f24ab7c8367",
+      "class_id": 109,
+      "class_name": "참외",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "0a02e76e-2c0c-4d15-9305-4564e9e105ef",
+      "class_id": 110,
+      "class_name": "멜론",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "cfeb4092-a390-45b4-9790-f9b4bad4f20f",
+      "class_id": 111,
+      "class_name": "파인애플",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "afd5d390-0f4d-4fc9-8b89-07ec1c60a9a9",
+      "class_id": 112,
+      "class_name": "바나나",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "4ac62f45-61c2-49f2-8929-40411f072323",
+      "class_id": 113,
+      "class_name": "용과",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "660477c3-357f-462b-8e89-6dcf1a82575d",
+      "class_id": 114,
+      "class_name": "아보카도",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "134caecc-dd08-4864-913f-107a5e3ae5ba",
+      "class_id": 115,
+      "class_name": "자몽",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "e5ac9730-1541-4b90-b505-752fc65e7327",
+      "class_id": 116,
+      "class_name": "두리안",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "325e6e93-e20b-4c41-ae40-9be5496d894e",
+      "class_id": 117,
+      "class_name": "망고스틴",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "132e28d3-c644-468e-ab78-028337f21ce8",
+      "class_id": 118,
+      "class_name": "망고",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "5d931aef-e541-4600-87fa-a38e105b6415",
+      "class_id": 119,
+      "class_name": "구아바",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "8a0f7d06-318b-4b43-9a22-1e853d12a7dd",
+      "class_id": 120,
+      "class_name": "리치",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "9d74530c-4bc4-407f-8d59-1a2aafcae55e",
+      "class_id": 121,
+      "class_name": "파파야",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "2458263a-4b1e-4ea6-b02a-0e82cbdd78d2",
+      "class_id": 122,
+      "class_name": "람부탄",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "b1700308-3cf8-4f45-b466-d7770566f300",
+      "class_id": 123,
+      "class_name": "패션후르츠",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "c94f757b-ae9a-4f22-a3eb-b156a8f3e965",
+      "class_id": 124,
+      "class_name": "레몬",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    },
+    {
+      "id": "54fe9d33-3136-4e25-8090-697b742cea4e",
+      "class_id": 125,
+      "class_name": "키위",
+      "superclass_id": 591,
+      "superclass_name": "과일"
+    }
+  ]
+}
