@@ -42,6 +42,36 @@ class1/img1.jpg, class2/img3.jpg
 작업이 완료되었습니다.
 ```
 
+## 추가 도구 및 활용법
+
+### 1. JSON 어노테이션 객체별 요약 및 복사
+- `analyze_json.py`: 폴더 내 json 파일을 분석해 이미지별 객체 종류와 개수를 요약, 원하는 객체가 포함된 json만 복사 가능
+- `summarize_segmentation.py`: 폴더 내 json 파일에서 객체별 segmentation, bbox, area 등 상세 정보 요약 및 저장
+- `filter_object_json.py`: 폴더 내 json 파일에서 원하는 객체만 남기고 나머지 annotation을 삭제, 결과를 only_폴더에 저장(원본은 보존)
+
+### 예시: 객체별 json 파일만 복사
+```bash
+python filter_object_json.py
+# → json 폴더 경로 입력
+# → 남길 객체 이름 입력
+# → only_폴더에 결과 저장
+```
+
+### 예시: segmentation 정보 요약 및 저장
+```bash
+python summarize_segmentation.py
+# → json 폴더 경로 입력
+# → 객체 이름 입력(엔터시 전체)
+# → 요약 결과 및 저장 여부 선택
+```
+
+### 예시: json 어노테이션 분석 및 요약
+```bash
+python analyze_json.py
+# → json 폴더 경로 입력
+# → 객체별 개수, 파일명 요약 및 복사 기능 제공
+```
+
 ---
 
 문의: [your-email@example.com]
